@@ -1,0 +1,14 @@
+{
+  "name": "oriel_bonjour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test case has been specified!\" && exit 1"
+  },
+  "keywords": [
+    "bonjour"
+  ],
+  "author": "latchycat",
+  "license": "ISC"
+}
